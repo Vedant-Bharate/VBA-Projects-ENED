@@ -13,19 +13,11 @@ In this repository, you'll find various VBA projects focusing on automating task
 
 ## Activities or Homework
 
-Description: This assignment introduces basic VBA syntax, variables, control flow, and procedures.
+This section includes the homework assignments given for my ENED coursework. These assignments serve as activities to learn and improve VBA skills and may require some time to complete.
 
 ## Challenges or CFU
 
-Description: Explore data manipulation and analysis techniques using VBA, including working with Excel spreadsheets and databases.
-
-## Assignment 3: Automation with VBA
-
-Description: Learn how to automate repetitive tasks and streamline workflows using VBA macros and automation techniques.
-
-## Assignment 4: Advanced VBA Techniques
-
-Description: Dive deeper into advanced VBA concepts, such as user forms, error handling, and interacting with external applications.
+In this section, you'll find multiple challenges that need to be completed within a time limit (15-20 minutes). These challenges are designed to test your understanding of VBA concepts and techniques in a fast-paced environment.
 
 ## Contributing
 
