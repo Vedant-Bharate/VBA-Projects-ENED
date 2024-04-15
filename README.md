@@ -19,6 +19,7 @@ See [Activities](Activities) folder for more details
 ## Challenges or CFU
 
 In this section, you'll find multiple challenges that need to be completed within a time limit (15-20 minutes). These challenges are designed to test your understanding of VBA concepts and techniques in a fast-paced environment.
+See [Challenges](Challenges) folder for more details
 
 ## Contributing
 
