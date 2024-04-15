@@ -7,6 +7,6 @@ The tasks and assignments provided in this repository are aimed at strengthening
 ## Getting Started
 To begin working on the tasks, please follow these steps:
 
-1. **Review Task Descriptions**: Go through the uploaded PDF files to understand the requirements and objectives of each task thoroughly.
+1. **Review Task Descriptions**: Navigate to the "Tasks" folder and go through the uploaded PDF files to understand the requirements and objectives of each task thoroughly.
 
-2. **Download Starter Files**: Download the provided Excel files from this folder. These files serve as the starting point for your work on each task, providing the necessary data and structure to begin coding in VBA.
+2. **Download Starter Files**: Download the provided Excel files from the "Starter Files" folder. These files serve as the starting point for your work on each task, providing the necessary data and structure to begin coding in VBA.
