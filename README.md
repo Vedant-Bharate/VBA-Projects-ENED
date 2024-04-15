@@ -14,6 +14,7 @@ In this repository, you'll find various VBA projects focusing on automating task
 ## Activities or Homework
 
 This section includes the homework assignments given for my ENED coursework. These assignments serve as activities to learn and improve VBA skills and may require some time to complete.
+See [Activities](Activities) folder for more details
 
 ## Challenges or CFU
 
